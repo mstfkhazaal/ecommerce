@@ -1,0 +1,58 @@
+```
+# Dependency directories
+vendor/
+node_modules/
+
+# Laravel-specific directories
+bootstrap/cache/
+storage/framework/cache/data/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+storage/framework/
+storage/logs/
+storage/app/public/
+storage/app/private/
+storage/app/
+
+# Compiled PHP files
+*.php~
+*.php.bak
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Python caches (if any Python tools used)
+__pycache__/
+*.pyc
+*.pyo
+.Python
+```
